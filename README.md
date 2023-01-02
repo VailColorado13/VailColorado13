@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matt 🔥</h1>
-<h3 align="center">Denver/ Boulder Full-Stack Developer focused on building automation tools for the advertising industry.</h3>
+<h3 align="center">Denver/ Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
 
-I’m currently working on [Production Assistant](productionassistant.onrender.com). This program takes a what used to be a 214 manual action task and turns it into a simple drag and drop. Check out how it works: 
+### I’m currently working on [Production Assistant](productionassistant.onrender.com). This program takes a what used to be a  ***214-action*** task and turns it into a simple drag & drop. Check out how it works: 
 
 
 https://user-images.githubusercontent.com/118027328/210267042-2bb84c89-3c7c-4577-be3d-044b02e8e88e.mp4
