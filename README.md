@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Matt 🔥</h1>
-<h3 align="center">Denver/ Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
+<h1 align="left">Hi, I'm Matt 🔥</h1>
+<h3 align="left">Denver/ Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
+
+Portfolio: [mattvailcodes.netlify.app](mattvailcodes.netlify.app)
 
 ### I’m currently working on Production Assistant (pa-five.onrender.com). This program takes a what used to be a  ***214 manual action*** task and turns it into a simple drag & drop. Check out how it works: 
 
@@ -7,8 +9,6 @@
 
 https://user-images.githubusercontent.com/118027328/210267042-2bb84c89-3c7c-4577-be3d-044b02e8e88e.mp4
 
-
-All of my projects are available at [mattvailcodes.netlify.app](mattvailcodes.netlify.app)
 
 How to reach me **mattvailco@gmail.com**
 
