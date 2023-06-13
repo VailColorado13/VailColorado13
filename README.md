@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Matt 🔥</h1>
-<h3 align="left">Denver/ Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
+<h3 align="left">Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
 
 Portfolio: [mattvailcodes.netlify.app](mattvailcodes.netlify.app)
 
