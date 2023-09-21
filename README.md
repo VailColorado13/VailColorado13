@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Matt 🔥</h1>
-<h3 align="left">Boulder Full-Stack Developer building automation tools for the advertising industry.</h3>
+Boulder Full-Stack Developer building automation tools for the advertising industry.
 
 Portfolio: [mattvailcodes.netlify.app](https://mattvailcodes.netlify.app)
 
-### I’m currently working on Production Assistant (pa-five.onrender.com). This program takes a what used to be a  ***214 manual action*** task and turns it into a simple drag & drop. Check out how it works: 
+I’m currently working on Production Assistant (pa-five.onrender.com). This program takes a what used to be a  ***214 manual action*** task and turns it into a simple drag & drop. Check out how it works: 
 
 <h3 align="center">🔊SOUND ON🔊</h3>
 
