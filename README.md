@@ -1,4 +1,5 @@
-<h1 align="left">Hi, I'm Matt 🔥</h1>
+Hi, I'm Matt 🔥
+
 Boulder Full-Stack Developer building automation tools for the advertising industry.
 
 Portfolio: [mattvailcodes.netlify.app](https://mattvailcodes.netlify.app)
