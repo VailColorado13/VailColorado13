@@ -1,12 +1,8 @@
 Hi, I'm Matt 🔥
 
-Boulder Full-Stack Developer building automation tools for the advertising industry.
+For the last 5 years, I’ve been lucky enough to make TV commercials. But advertising is not all glitz and glam. There’s a lot of paperwork, too.
 
-Portfolio: [mattvailcodes.netlify.app](https://mattvailcodes.netlify.app)
-
-I’m currently working on Production Assistant (pa-five.onrender.com). This program takes a what used to be a  ***214 manual action*** task and turns it into a simple drag & drop. Check out how it works: 
-
-<h3 align="center">🔊SOUND ON🔊</h3>
+I was getting pretty tired of that paperwork, so I decided to write some software to do it for me. Now, I have custom-built tools that makes my life easier. Check them out: 
 
 <!-- this is the format we can use to have 'thumbnails' that link to youtube pages -->
 [<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
