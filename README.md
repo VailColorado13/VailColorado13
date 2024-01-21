@@ -8,13 +8,10 @@ I’m currently working on Production Assistant (pa-five.onrender.com). This pro
 
 <h3 align="center">🔊SOUND ON🔊</h3>
 
+<!-- this is the format we can use to have 'thumbnails' that link to youtube pages -->
+[<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/118027328/210267042-2bb84c89-3c7c-4577-be3d-044b02e8e88e.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+[<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
 
 How to reach me **mattvailco@gmail.com**
 
