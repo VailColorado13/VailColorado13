@@ -1,8 +1,10 @@
-Hi, I'm Matt 🔥
+<h1>Hi, I'm Matt 🔥 </h1>
 
-For the last 5 years, I’ve been lucky enough to make TV commercials. But advertising is not all glitz and glam. There’s a lot of paperwork, too.
+<h3>For the last 5 years, I’ve been lucky enough to make TV commercials. But advertising is not all glitz and glam. There’s a lot of paperwork, too.</h3>
 
-I was getting pretty tired of that paperwork, so I decided to write some software to do it for me. Now, I have custom-built tools that makes my life easier. Check them out: 
+<h3>I was getting pretty tired of that paperwork, so I decided to write some software to do it for me. Now, I have custom-built tools that makes my life easier.</h3>
+
+<h3>Check them out:</h3>
 
 <!-- this is the format we can use to have 'thumbnails' that link to youtube pages -->
 [<img alt="Javascript does all my paperwork" width="" src="thumbnail_002.jpg" />](https://www.youtube.com/watch?v=Nmjfql039L4)
