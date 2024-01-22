@@ -7,7 +7,7 @@ I was getting pretty tired of that paperwork, so I decided to write some softwar
 <!-- this is the format we can use to have 'thumbnails' that link to youtube pages -->
 [<img alt="Javascript does all my paperwork" width="" src="thumbnail_002.jpg" />](https://www.youtube.com/watch?v=Nmjfql039L4)
 
-[<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
+[<img alt="alt_text" width="" src="ta_thumbnail_001.jpg" />](https://www.google.com/)
 
 How to reach me **mattvailco@gmail.com**
 
