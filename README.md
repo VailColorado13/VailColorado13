@@ -5,7 +5,7 @@ For the last 5 years, I’ve been lucky enough to make TV commercials. But adver
 I was getting pretty tired of that paperwork, so I decided to write some software to do it for me. Now, I have custom-built tools that makes my life easier. Check them out: 
 
 <!-- this is the format we can use to have 'thumbnails' that link to youtube pages -->
-[<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
+[<img alt="alt_text" width="" src="thumbnail_001.jpg" />](https://www.youtube.com/watch?v=Nmjfql039L4)
 
 [<img alt="alt_text" width="400px" src="cat.jpg" />](https://www.google.com/)
 
